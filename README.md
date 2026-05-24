@@ -36,4 +36,4 @@ Python · pandas · scikit-learn · XGBoost · matplotlib · seaborn
 [UCI Forest Cover Type](https://archive.ics.uci.edu/dataset/31/covertype) — 581,012 samples, 54 features, 7 classes
 
 ## To view html
-[View rendered notebook]([https://zaynkd40.github.io/Datathon-2026/forest_cover_rendered.html](https://zaynkd40.github.io/Forest-Cover-Type-Classification/))
+[View rendered notebook](https://zaynkd40.github.io/Forest-Cover-Type-Classification/)
